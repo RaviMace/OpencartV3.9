@@ -1,0 +1,105 @@
+2024-08-05 10:28:56 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\RaviGayu\Documents\Workspace\SeleniumLearning\OpencartV3.9\master.xml"
+2024-08-05 10:28:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\RaviGayu\Documents\Workspace\SeleniumLearning\OpencartV3.9\master.xml
+
+2024-08-05 10:50:05 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\RaviGayu\Documents\Workspace\SeleniumLearning\OpencartV3.9\master.xml"
+2024-08-05 10:50:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\RaviGayu\Documents\Workspace\SeleniumLearning\OpencartV3.9\master.xml
+
+2024-08-05 10:59:39 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\RaviGayu\Documents\Workspace\SeleniumLearning\OpencartV3.9\master.xml"
+2024-08-05 10:59:44 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\RaviGayu\Documents\Workspace\SeleniumLearning\OpencartV3.9\master.xml
+
+2024-08-05 11:02:14 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-08-05 11:02:14 DEBUG TC_002_LoginTest:18 - capturing application debug logs....
+2024-08-05 11:02:26 INFO  TC_002_LoginTest:25 - clicked on myaccount link on the home page..
+2024-08-05 11:02:35 INFO  TC_002_LoginTest:28 - clicked on login link under myaccount..
+2024-08-05 11:02:35 INFO  TC_002_LoginTest:32 - Entering valid email and password..
+2024-08-05 11:02:43 INFO  TC_002_LoginTest:36 - clicked on login button..
+2024-08-05 11:05:42 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\RaviGayu\Documents\Workspace\SeleniumLearning\OpencartV3.9\master.xml"
+2024-08-05 11:05:44 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\RaviGayu\Documents\Workspace\SeleniumLearning\OpencartV3.9\master.xml
+
+2024-08-05 11:05:59 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-08-05 11:05:59 DEBUG TC_002_LoginTest:18 - capturing application debug logs....
+2024-08-05 11:06:00 INFO  TC_002_LoginTest:25 - clicked on myaccount link on the home page..
+2024-08-05 11:06:01 INFO  TC_002_LoginTest:28 - clicked on login link under myaccount..
+2024-08-05 11:06:01 INFO  TC_002_LoginTest:32 - Entering valid email and password..
+2024-08-05 11:06:03 INFO  TC_002_LoginTest:36 - clicked on login button..
+2024-08-05 11:06:05 INFO  TC_002_LoginTest:51 - **** Finished TC_002_LoginTest  ****
+2024-08-05 11:10:41 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\RaviGayu\Documents\Workspace\SeleniumLearning\OpencartV3.9\master.xml"
+2024-08-05 11:10:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\RaviGayu\Documents\Workspace\SeleniumLearning\OpencartV3.9\master.xml
+
+2024-08-05 11:15:43 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\RaviGayu\Documents\Workspace\SeleniumLearning\OpencartV3.9\master.xml"
+2024-08-05 11:15:45 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\RaviGayu\Documents\Workspace\SeleniumLearning\OpencartV3.9\master.xml
+
+2024-08-05 12:28:06 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\RaviGayu\Documents\Workspace\SeleniumLearning\OpencartV3.9\master.xml"
+2024-08-05 12:28:51 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-08-05 12:28:51 DEBUG TC_002_LoginTest:18 - capturing application debug logs....
+2024-08-05 12:28:53 INFO  TC_002_LoginTest:25 - clicked on myaccount link on the home page..
+2024-08-05 12:28:53 INFO  TC_002_LoginTest:28 - clicked on login link under myaccount..
+2024-08-05 12:28:53 INFO  TC_002_LoginTest:32 - Entering valid email and password..
+2024-08-05 12:28:55 INFO  TC_002_LoginTest:36 - clicked on login button..
+2024-08-05 12:28:55 INFO  TC_002_LoginTest:51 - **** Finished TC_002_LoginTest  ****
+2024-08-05 12:30:03 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\RaviGayu\Documents\Workspace\SeleniumLearning\OpencartV3.9\master.xml"
+2024-08-05 12:30:24 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-08-05 12:30:24 DEBUG TC_001_AccountRegistrationTest:16 - This is a debug log message
+2024-08-05 12:30:25 INFO  TC_001_AccountRegistrationTest:23 - Clicked on MyAccount Link.. 
+2024-08-05 12:30:26 INFO  TC_001_AccountRegistrationTest:26 - Clicked on Register Link.. 
+2024-08-05 12:30:26 INFO  TC_001_AccountRegistrationTest:31 - Providing customer details...
+2024-08-05 12:30:29 INFO  TC_001_AccountRegistrationTest:46 - Validating expected message..
+2024-08-05 12:30:30 INFO  TC_001_AccountRegistrationTest:62 - ***** Finished TC001_AccountRegistrationTest *****
+2024-08-05 12:30:47 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-08-05 12:30:47 DEBUG TC_002_LoginTest:18 - capturing application debug logs....
+2024-08-05 12:30:47 INFO  TC_002_LoginTest:25 - clicked on myaccount link on the home page..
+2024-08-05 12:30:48 INFO  TC_002_LoginTest:28 - clicked on login link under myaccount..
+2024-08-05 12:30:48 INFO  TC_002_LoginTest:32 - Entering valid email and password..
+2024-08-05 12:30:49 INFO  TC_002_LoginTest:36 - clicked on login button..
+2024-08-05 12:30:49 INFO  TC_002_LoginTest:51 - **** Finished TC_002_LoginTest  ****
+2024-08-05 12:31:30 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\RaviGayu\Documents\Workspace\SeleniumLearning\OpencartV3.9\master.xml"
+2024-08-05 12:31:51 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-08-05 12:31:51 DEBUG TC_001_AccountRegistrationTest:16 - This is a debug log message
+2024-08-05 12:31:51 INFO  TC_001_AccountRegistrationTest:23 - Clicked on MyAccount Link.. 
+2024-08-05 12:31:52 INFO  TC_001_AccountRegistrationTest:26 - Clicked on Register Link.. 
+2024-08-05 12:31:52 INFO  TC_001_AccountRegistrationTest:31 - Providing customer details...
+2024-08-05 12:31:55 INFO  TC_001_AccountRegistrationTest:46 - Validating expected message..
+2024-08-05 12:31:55 INFO  TC_001_AccountRegistrationTest:62 - ***** Finished TC001_AccountRegistrationTest *****
+2024-08-05 12:32:17 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-08-05 12:32:17 DEBUG TC_002_LoginTest:18 - capturing application debug logs....
+2024-08-05 12:32:17 INFO  TC_002_LoginTest:25 - clicked on myaccount link on the home page..
+2024-08-05 12:32:25 INFO  TC_002_LoginTest:28 - clicked on login link under myaccount..
+2024-08-05 12:32:25 INFO  TC_002_LoginTest:32 - Entering valid email and password..
+2024-08-05 12:32:26 INFO  TC_002_LoginTest:36 - clicked on login button..
+2024-08-05 12:32:27 INFO  TC_002_LoginTest:51 - **** Finished TC_002_LoginTest  ****
+2024-08-05 12:56:07 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\RaviGayu\Documents\Workspace\SeleniumLearning\OpencartV3.9\master.xml"
+2024-08-05 12:56:38 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-08-05 12:56:38 DEBUG TC_001_AccountRegistrationTest:16 - This is a debug log message
+2024-08-05 12:56:40 INFO  TC_001_AccountRegistrationTest:23 - Clicked on MyAccount Link.. 
+2024-08-05 12:56:44 INFO  TC_001_AccountRegistrationTest:26 - Clicked on Register Link.. 
+2024-08-05 12:56:44 INFO  TC_001_AccountRegistrationTest:31 - Providing customer details...
+2024-08-05 12:56:50 INFO  TC_001_AccountRegistrationTest:46 - Validating expected message..
+2024-08-05 12:56:50 INFO  TC_001_AccountRegistrationTest:62 - ***** Finished TC001_AccountRegistrationTest *****
+2024-08-05 12:57:13 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-08-05 12:57:13 DEBUG TC_002_LoginTest:18 - capturing application debug logs....
+2024-08-05 12:57:14 INFO  TC_002_LoginTest:25 - clicked on myaccount link on the home page..
+2024-08-05 12:57:16 INFO  TC_002_LoginTest:28 - clicked on login link under myaccount..
+2024-08-05 12:57:16 INFO  TC_002_LoginTest:32 - Entering valid email and password..
+2024-08-05 12:57:20 INFO  TC_002_LoginTest:36 - clicked on login button..
+2024-08-05 12:57:21 INFO  TC_002_LoginTest:51 - **** Finished TC_002_LoginTest  ****
+2024-08-05 13:00:46 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\RaviGayu\Documents\Workspace\SeleniumLearning\OpencartV3.9\master.xml"
+2024-08-05 13:01:12 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-08-05 13:01:12 DEBUG TC_001_AccountRegistrationTest:16 - This is a debug log message
+2024-08-05 13:01:14 INFO  TC_001_AccountRegistrationTest:23 - Clicked on MyAccount Link.. 
+2024-08-05 13:01:16 INFO  TC_001_AccountRegistrationTest:26 - Clicked on Register Link.. 
+2024-08-05 13:01:16 INFO  TC_001_AccountRegistrationTest:31 - Providing customer details...
+2024-08-05 13:01:24 INFO  TC_001_AccountRegistrationTest:46 - Validating expected message..
+2024-08-05 13:01:24 INFO  TC_001_AccountRegistrationTest:62 - ***** Finished TC001_AccountRegistrationTest *****
+2024-08-05 13:01:43 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-08-05 13:01:43 DEBUG TC_002_LoginTest:18 - capturing application debug logs....
+2024-08-05 13:01:43 INFO  TC_002_LoginTest:25 - clicked on myaccount link on the home page..
+2024-08-05 13:01:45 INFO  TC_002_LoginTest:28 - clicked on login link under myaccount..
+2024-08-05 13:01:45 INFO  TC_002_LoginTest:32 - Entering valid email and password..
+2024-08-05 13:01:46 INFO  TC_002_LoginTest:36 - clicked on login button..
+2024-08-05 13:01:46 INFO  TC_002_LoginTest:51 - **** Finished TC_002_LoginTest  ****
